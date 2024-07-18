@@ -77,6 +77,7 @@
 <br/>  
 
 ## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=flysputnik17&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flysputnik17&theme=highcontrast" alt="flysputnik17" align="left" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flysputnik17&hide_border=true&layout=compact" align="left" />  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=flysputnik17&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flysputnik17&theme=highcontrast" alt="flysputnik17" /></p>
+
