@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel Bandurin</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h3 align="center">👋 Hi, I'm a passionate Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React. I also have experience working with Node.js, Express.js, and MongoDB to build full-stack applications. I enjoy turning designs into reality using Figma and have the skills to deploy my projects to the cloud, making them accessible to everyone. I'm always eager to learn and take on new challenges in the ever-evolving world of web development.
+
+🚀 I'm currently open to work and collaboration with others on exciting projects!</h3>
 <br/>  
 
 
